@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:0,Shant Premium HD
+#EXTGRP:unsorted
+http://188.134.12.86:81/udp/235.10.10.169:1234
+#EXTINF:0,rrrr
+#EXTGRP:unsorted
+http://79.135.79.162:4022/udp/239.195.241.25:1234
+#EXTINF:0,22222
+#EXTGRP:unsorted
+http://79.133.111.11:999/udp/239.191.255.147:15283
+#EXTINF:0,shant HD
+#EXTGRP:unsorted
+http://92.39.227.235:81/udp/235.10.10.169:1234
+#EXTINF:0,Z-
+#EXTGRP:unsorted
+http://92.39.227.235:81/udp/235.10.10.169:1234
+#EXTINF:0,Shant
+#EXTGRP:unsorted
+http://79.135.79.162:4022/udp/239.195.241.25:1234?zona-iptv.ru
